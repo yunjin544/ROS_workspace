@@ -1,0 +1,8 @@
+prefix=/home/yunjin/Documents/ros_ws/devel
+
+Name: raisim_ros
+Description: Description of raisim_ros
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
